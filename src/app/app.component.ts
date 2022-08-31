@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Product';
+  product={
+    category:"mobile",
+    name:"a51",
+    price:"23000",
+
+  }
 }
